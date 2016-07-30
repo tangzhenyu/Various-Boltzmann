@@ -3,7 +3,7 @@ Variation of Boltzmann Machines implemented in Matlab.<br><br>
 
 All the codes is based on "https://github.com/rasmusbergpalm/DeepLearnToolbox.git".<br><br>
 
-These codes has implemented a RBM's training mathods in terms of the paper "Training Restricted Boltzmann Machines via the Thouless-Anderson-Palmer Free Energy" by matlab.In the course of implementation,I also reference to the Julia language version codes "https://github.com/sphinxteam/Boltzmann.jl".We call this method "tap2"(second order) and "tap3"(third order).<br><br>
+These codes has implemented a RBM's training mathods in terms of the paper "Training Restricted Boltzmann Machines via the Thouless-Anderson-Palmer Free Energy" by matlab.In the course of implementation,I also reference to the Julia language version codes "https://github.com/sphinxteam/Boltzmann.jl". We call this method "tap2"(second order) and "tap3"(third order).<br><br>
 
 These codes has implemented a RBM's training mathods in terms of the paper "Modeling image patches with a directed hierarchy of Markov random fields".We call these method  "semi".
 Implementing the Matrix RBM in terms of the paper"Matrix Variate RBM and Its Applications".<br><br>
